@@ -1,4 +1,4 @@
-package au.com.itelasoft.flutter_advanced
+package au.com.itelasoft.experiments
 
 import io.flutter.embedding.android.FlutterActivity
 
